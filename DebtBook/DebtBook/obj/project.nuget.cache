@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "YtnH0Y7ZYZealEYgAKhnu3z8Jgk6A09z+uOjX/vAHBGVwY/jgV+6tBakJsoanHMPJq8yOI/oy+zfZgZXeaujAQ==",
+  "success": true,
+  "projectFilePath": "E:\\Documents\\Softwareteknologi\\4. semester\\GUI\\DebtBook\\DebtBook\\DebtBook.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Champion\\.nuget\\packages\\commonservicelocator.netcore\\1.3.1\\commonservicelocator.netcore.1.3.1.nupkg.sha512",
+    "C:\\Users\\Champion\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\Champion\\.nuget\\packages\\prism.core\\8.0.0.1909\\prism.core.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Champion\\.nuget\\packages\\prism.unity\\8.0.0.1909\\prism.unity.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Champion\\.nuget\\packages\\prism.wpf\\8.0.0.1909\\prism.wpf.8.0.0.1909.nupkg.sha512",
+    "C:\\Users\\Champion\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.2\\system.runtime.compilerservices.unsafe.4.5.2.nupkg.sha512",
+    "C:\\Users\\Champion\\.nuget\\packages\\system.threading.tasks.extensions\\4.5.2\\system.threading.tasks.extensions.4.5.2.nupkg.sha512",
+    "C:\\Users\\Champion\\.nuget\\packages\\unity.abstractions\\5.11.6\\unity.abstractions.5.11.6.nupkg.sha512",
+    "C:\\Users\\Champion\\.nuget\\packages\\unity.container\\5.11.8\\unity.container.5.11.8.nupkg.sha512"
+  ],
+  "logs": []
+}
